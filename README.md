@@ -1,6 +1,8 @@
 # vimrc
 This is a sample of VIM config file. I use Vundle to manage plugins.
 
+Using https://github.com/kadekillary/subtle_solo color scheme
+
 # Contributing
 
 * Fork it
@@ -12,3 +14,4 @@ This is a sample of VIM config file. I use Vundle to manage plugins.
 # Credits
 
 [Amir Salihefendic](https://github.com/amix/vimrc)
+[Kade Killary](https://github.com/kadekillary)
